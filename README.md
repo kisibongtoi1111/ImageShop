@@ -1,7 +1,7 @@
 # ImageShopFullStack2022
 
 Fullstack webpage used for showing and uploading images. <br/>
-Demo: https://main.dlc85sm9x9086.amplifyapp.com/
+Demo: https://main.d1jljls174m8zc.amplifyapp.com/
 
 ## Installation
 
@@ -31,5 +31,3 @@ Backend:
 ## Contributors
 
 - Hung Phan
-- Tuong Hoang
-- Minh Dang
