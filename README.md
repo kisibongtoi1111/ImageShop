@@ -19,15 +19,15 @@ npm start
 
 ## Technologies
 
-Frontend:
-- ReactJS
-- Masonary layout
-<br/>
-Backend:
-- Firebase Storage
-- Firebase Authentication
-- Firebase Database
-- Firestore Database
+- Frontend:
+  - ReactJS
+  - Masonary layout
+
+- Backend:
+  - Firebase Storage
+  - Firebase Authentication
+  - Firebase Database
+  - Firestore Database
 
 ## Contributors
 
