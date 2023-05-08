@@ -22,6 +22,7 @@ npm start
 Frontend:
 - ReactJS
 - Masonary layout
+<br/>
 Backend:
 - Firebase Storage
 - Firebase Authentication
